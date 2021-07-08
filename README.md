@@ -2,6 +2,7 @@
 
 Esse projeto foi feito seguindo a videoaula: https://www.youtube.com/watch?v=tBweoUiMsDg
 
+Desenvolvido com react.js
 
 ### Próximos Passos
 
